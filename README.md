@@ -1,12 +1,12 @@
-# Name: 
+# Name: Bryanna Sutton
 
 ## About Me
-* School Email: 
-* Dream Career: 
-* Hidden Talent: 
+* School Email: Suttonb1317@durhamtech.edu
+* Dream Career: Front End Software Developer
+* Hidden Talent: Baking
 
 ## Course Information
-* Semester: 
+* Semester: Spring
 * Course Name: CSC 118 - Swift Fundamentals I
 * Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
 * Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
