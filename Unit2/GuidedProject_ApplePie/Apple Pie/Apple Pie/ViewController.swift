@@ -48,6 +48,7 @@ class ViewController: UIViewController {
     func updateGameState() {
         if currentGame.incorrectMovesRemaining == 0 {
             totalLosses += 1
+            correctWordLabel.text = "The word was: \(currentGame.word)"
         } else if currentGame.word ==
                     currentGame.formattedWord {
             totalWins += 1
